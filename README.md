@@ -2,7 +2,7 @@
 <body>
 
 <h1>Hey, I'm Jhye 👋</h1>
-<p>💡 Curious Developer • 🛠️ Tinkerer • 🔧 Systems & Dashboard Builder • 🧠 Always Learning</p>
+<p>💡 Curious Developer • 🛠️ Tinkerer •  🧠 Always Learning</p>
 
 <hr>
 

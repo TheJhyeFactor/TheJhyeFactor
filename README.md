@@ -115,16 +115,13 @@ Iterate forever.
 
 ---
 
-# GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TheJhyeFactor&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJhyeFactor&layout=compact&theme=transparent&hide_border=true"/>
-
+<img
+  src="https://streak-stats.demolab.com?user=TheJhyeFactor&theme=github-dark&hide_border=true"
+/>
 </p>
-
 ---
 
 # GitHub Activity

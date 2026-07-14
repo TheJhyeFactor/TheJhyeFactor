@@ -1,206 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563EB&height=220&section=header&text=Jhye%20O'Meley&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1220&height=220&section=header&text=Jhye%20O%27Meley&fontSize=70&fontColor=F8FAFC&animation=fadeIn" alt="Jhye O'Meley" />
 
-# 👋 Hey, I'm Jhye
+# Jhye O'Meley
 
-### Full-Stack Engineer • SaaS Builder • AI Product Developer
+### Full-stack engineer · SaaS builder · AI product developer
 
-I design and build modern software products that solve real-world problems.
+I build production software products from first idea to shipped experience — with a focus on useful workflows, thoughtful interfaces, and dependable systems.
 
-From concept → architecture → development → deployment.
-
-<br/>
-
-<a href="https://jhye.dev">
-<img src="https://img.shields.io/badge/Portfolio-jhye.dev-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/TheJhyeFactor">
-<img src="https://img.shields.io/badge/GitHub-TheJhyeFactor-111827?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jhye-o-meley-529960213/">
-<img src="https://img.shields.io/badge/LinkedIn-Jhye%20O'Meley-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<a href="https://jhye.dev">Website</a> ·
+<a href="https://www.linkedin.com/in/jhye-o-meley-529960213/">LinkedIn</a> ·
+<a href="https://github.com/TheJhyeFactor">GitHub</a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## What I build
 
-I'm a full-stack developer focused on building scalable web applications, SaaS platforms, and AI-powered products.
+- SaaS products that turn complicated work into clear workflows
+- AI-assisted tools with practical, user-facing outcomes
+- Browser-first applications with privacy-conscious architecture
+- Full-stack systems that are designed to ship and operate in production
 
-I enjoy working across the entire product lifecycle:
+## Selected work
 
-- Designing user experiences
-- Building frontend systems
-- Creating backend architectures
-- Integrating APIs and automation
-- Deploying production applications
+| Product | What it demonstrates |
+| --- | --- |
+| [PDF Power Tools](https://github.com/TheJhyeFactor/pdf-tools) · [Live demo](https://thejhyefactor.github.io/pdf-tools/) | Client-side PDF manipulation, privacy-first processing, OCR, annotation, and export workflows |
+| [CareerLift](https://github.com/TheJhyeFactor/careerlift) · [Live demo](https://thejhyefactor.github.io/careerlift/) | Resume and cover-letter workflows, live previews, browser persistence, and document generation |
+| [WebOS](https://github.com/TheJhyeFactor/browser-os) | A browser operating system with window management, terminal, filesystem, and built-in applications |
+| [Jhye.dev](https://github.com/TheJhyeFactor/jhye-dev) · [Live site](https://jhye.dev/) | Product-focused personal site with a deliberate visual system and responsive implementation |
 
-My goal:
-
-> Build software people actually want to use.
-
----
-
-# 🏗️ Current Projects
-
-## ✨ NoteForge
-
-AI-powered learning platform transforming educational content into personalised study experiences.
-
-### Features
-
-- AI-generated handwritten-style notes
-- YouTube video processing
-- PDF/document conversion
-- Flashcards
-- Quizzes
-- Revision tools
-- AI learning assistance
-
-
----
-
-## 🚍 ClubMate
-
-A complete operations platform designed for hospitality and club environments.
-
-### Features
-
-- Booking management
-- Rider management
-- Driver application
-- Route planning
-- Trip tracking
-- SMS notifications
-- Reception dashboard
-- Firebase-powered backend
-
-
----
-
-# 🛠️ Technology Stack
+## Technology
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,firebase,python,docker,git,github,figma,vscode&perline=7"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,firebase,python,docker,git,github,figma,vscode&perline=7" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, Firebase, Python, Docker, Git, GitHub, Figma, and VS Code" />
 
 </div>
 
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS<br/>
+**Backend:** Node.js, Firebase, Firestore, REST APIs<br/>
+**Product:** AI integrations, SaaS architecture, automation, design systems<br/>
+**Delivery:** GitHub Actions, Docker, Vercel, GitHub Pages
 
----
+## How I work
 
-# 💻 Development Stack
+I care about the path between a product idea and a product people can rely on:
 
-```yaml
-Frontend:
-  - React
-  - Next.js
-  - TypeScript
-  - TailwindCSS
+1. Understand the real problem and the operating context.
+2. Shape a simple workflow and a clear interface.
+3. Build the smallest maintainable system that can support it.
+4. Validate the edge cases, ship it, and keep improving it.
 
-Backend:
-  - Node.js
-  - Firebase
-  - Firestore
-  - REST APIs
+## Contribution activity
 
-Tools:
-  - Git
-  - Docker
-  - Vercel
-  - VS Code
-
-Interests:
-  - Artificial Intelligence
-  - SaaS Architecture
-  - Automation
-  - Product Design
-```
-
----
-
-# ⚡ Development Philosophy
-
-```
-Create products.
-Solve problems.
-Design intentionally.
-Automate everything.
-Ship continuously.
-Improve constantly.
-```
-
----
-
-# 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/TheJhyeFactor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheJhyeFactor&repo=NoteForge&theme=transparent&hide_border=true"/>
-</a>
-
-<a href="https://github.com/TheJhyeFactor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheJhyeFactor&repo=ClubMate&theme=transparent&hide_border=true"/>
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TheJhyeFactor/TheJhyeFactor/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-- Advanced AI integrations
-- Large Language Models
-- Agentic AI systems
-- Scalable SaaS architecture
-- Cloud infrastructure
-- Modern design systems
-
----
-
-# 🌎 Connect
-
-<div align="center">
-
-<a href="https://jhye.dev">
-Website
-</a>
-
-&nbsp; • &nbsp;
-
-<a href="https://github.com/TheJhyeFactor">
-GitHub
-</a>
-
-&nbsp; • &nbsp;
-
-<a href="https://www.linkedin.com/in/jhye-o-meley-529960213/">
-LinkedIn
-</a>
-
-</div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheJhyeFactor/TheJhyeFactor/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheJhyeFactor/TheJhyeFactor/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/TheJhyeFactor/TheJhyeFactor/output/github-contribution-grid-snake.svg" alt="Animated contribution graph snake" />
+</picture>
 
 ---
 
 <div align="center">
 
-### Building software with purpose.
+Building software with purpose.
 
 </div>

@@ -1,92 +1,165 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Jhye%20O'Meley&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563EB&height=220&section=header&text=Jhye%20O'Meley&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
 
 # 👋 Hey, I'm Jhye
 
-### Full-Stack Engineer building SaaS products, AI tools & automation systems
+### Full-Stack Engineer • SaaS Builder • AI Product Developer
 
-I design and build software products from idea → architecture → production.
+I design and build modern software products that solve real-world problems.
 
-<br>
+From concept → architecture → development → deployment.
+
+<br/>
 
 <a href="https://jhye.dev">
-<img src="https://img.shields.io/badge/Portfolio-jhye.dev-2563eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-jhye.dev-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/TheJhyeFactor">
-<img src="https://img.shields.io/badge/GitHub-TheJhyeFactor-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-TheJhyeFactor-111827?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jhye-o-meley-529960213/">
+<img src="https://img.shields.io/badge/LinkedIn-Jhye%20O'Meley-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
 
 
-## 🚀 What I'm Building
+---
 
-### ✨ NoteForge
+# 🚀 About Me
 
-AI-powered learning platform transforming videos, PDFs and documents into:
+I'm a full-stack developer focused on building scalable web applications, SaaS platforms, and AI-powered products.
 
-- AI-generated study notes
-- Flashcards
-- Quizzes
-- Revision systems
+I enjoy working across the entire product lifecycle:
 
+- Designing user experiences
+- Building frontend systems
+- Creating backend architectures
+- Integrating APIs and automation
+- Deploying production applications
 
-### 🚍 ClubMate
+My focus is simple:
 
-Operations platform for hospitality venues:
-
-- Booking management
-- Driver dispatch
-- Route tracking
-- SMS automation
-- Real-time dashboards
+> Build software people actually want to use.
 
 
 ---
 
-## 🛠️ Tech Stack
+# 🏗️ Current Projects
+
+
+## ✨ NoteForge
+
+AI-powered learning platform transforming educational content into personalised study experiences.
+
+### Features
+
+- AI-generated handwritten-style notes
+- YouTube video processing
+- PDF/document conversion
+- Flashcards
+- Quizzes
+- Revision tools
+- AI learning assistance
+
+
+---
+
+## 🚍 ClubMate
+
+Complete operations platform designed for hospitality and club environments.
+
+### Features
+
+- Booking management
+- Rider management
+- Driver application
+- Route planning
+- Trip tracking
+- SMS notifications
+- Reception dashboard
+- Firebase-powered backend
+
+
+---
+
+# 🛠️ Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,firebase,python,docker,git,figma&perline=5"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,firebase,python,docker,git,github,figma,vscode&perline=7"/>
 
 </div>
 
 
 ---
 
-## 🧠 Engineering Focus
+# 🧠 What I Work With
 
 ```yaml
-Currently:
-  - SaaS Architecture
-  - AI Applications
-  - Cloud Systems
-  - Product Design
+Frontend:
+  - React
+  - Next.js
+  - TypeScript
+  - TailwindCSS
 
-Building:
-  - User-focused software
-  - Automation platforms
-  - Scalable web applications
+Backend:
+  - Node.js
+  - Firebase
+  - Firestore
+  - REST APIs
+
+Development:
+  - Git
+  - Docker
+  - Vercel
+  - VS Code
+
+Interests:
+  - Artificial Intelligence
+  - SaaS Architecture
+  - Automation
+  - Product Design
 ```
 
 
 ---
 
-## 📈 GitHub Activity
+# ⚡ Development Philosophy
+
+```
+Create products.
+Solve problems.
+Design intentionally.
+Automate everything.
+Ship continuously.
+Improve constantly.
+```
+
+
+---
+
+# 📌 Featured Work
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheJhyeFactor&show_icons=true&hide_border=true&theme=transparent"/>
+<a href="https://github.com/TheJhyeFactor">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheJhyeFactor&repo=NoteForge&theme=transparent&hide_border=true"/>
+</a>
+
+<a href="https://github.com/TheJhyeFactor">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheJhyeFactor&repo=ClubMate&theme=transparent&hide_border=true"/>
+</a>
 
 </div>
 
 
 ---
 
-## 🐍 Contribution Activity
+# 🐍 Contribution Activity
 
 <div align="center">
 
@@ -97,14 +170,42 @@ Building:
 
 ---
 
-## 🌎 Connect
+# 📚 Currently Learning
 
-Website:
-https://jhye.dev
+- Advanced AI integrations
+- Large Language Models
+- Agentic AI systems
+- Scalable SaaS architecture
+- Cloud infrastructure
+- Modern design systems
 
-LinkedIn:
-https://linkedin.com/in/jhye-o-meley-529960213/
 
+---
+
+# 🌎 Connect
+
+<div align="center">
+
+<a href="https://jhye.dev">
+Website
+</a>
+
+&nbsp; • &nbsp;
+
+<a href="https://github.com/TheJhyeFactor">
+GitHub
+</a>
+
+&nbsp; • &nbsp;
+
+<a href="https://www.linkedin.com/in/jhye-o-meley-529960213/">
+LinkedIn
+</a>
+
+</div>
+
+
+---
 
 <div align="center">
 

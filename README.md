@@ -1,166 +1,113 @@
 <div align="center">
 
-# 👋 Hey, I'm Jhye O'Meley
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Jhye%20O'Meley&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
 
-### Full-Stack Software Engineer • SaaS Founder • AI Product Builder
+# 👋 Hey, I'm Jhye
 
-Building modern software that solves real-world problems through thoughtful design, automation, and AI.
+### Full-Stack Engineer building SaaS products, AI tools & automation systems
 
-[Portfolio](https://jhye.dev) •
-[LinkedIn](https://www.linkedin.com/in/jhye-o-meley-529960213/) •
-[GitHub](https://github.com/TheJhyeFactor)
+I design and build software products from idea → architecture → production.
 
----
+<br>
+
+<a href="https://jhye.dev">
+<img src="https://img.shields.io/badge/Portfolio-jhye.dev-2563eb?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/TheJhyeFactor">
+<img src="https://img.shields.io/badge/GitHub-TheJhyeFactor-black?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
-# About Me
 
-I'm an Australian full-stack developer focused on creating products people genuinely enjoy using.
+## 🚀 What I'm Building
 
-Rather than building tutorials or clones, I enjoy designing complete software platforms—from backend architecture and authentication to polished user interfaces and deployment.
+### ✨ NoteForge
 
-My interests include:
+AI-powered learning platform transforming videos, PDFs and documents into:
 
-- 🤖 Artificial Intelligence
-- ☁️ SaaS Platforms
-- 📱 Modern Web Applications
-- 🎨 UI/UX Design
-- ⚡ Automation
-- 🚀 Product Development
-
-Currently building products that combine AI with exceptional user experiences.
-
----
-
-# Current Projects
-
-## ✨ NoteForge
-
-An AI-powered learning platform that transforms:
-
-- YouTube videos
-- PDFs
-- Documents
-- Articles
-- Notes
-
-into:
-
-- Handwritten study notes
+- AI-generated study notes
 - Flashcards
-- Revision sheets
-- Interactive quizzes
-- AI tutoring experiences
+- Quizzes
+- Revision systems
+
+
+### 🚍 ClubMate
+
+Operations platform for hospitality venues:
+
+- Booking management
+- Driver dispatch
+- Route tracking
+- SMS automation
+- Real-time dashboards
+
 
 ---
 
-## 🚍 ClubMate
-
-A complete courtesy bus management platform designed for clubs and hospitality venues.
-
-Features include:
-
-- Online bookings
-- Driver management
-- Live trip tracking
-- SMS notifications
-- Route optimisation
-- Reception dashboard
-- Mobile driver application
-- Firebase backend
-
----
-
-# Tech Stack
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-
-## Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase)
-
-## Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-# Development Philosophy
-
-```text
-Build products.
-Solve problems.
-Obsess over UX.
-Automate everything.
-Ship fast.
-Iterate forever.
-```
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img
-  src="https://streak-stats.demolab.com?user=TheJhyeFactor&theme=github-dark&hide_border=true"
-/>
-</p>
----
-
-# GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheJhyeFactor&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# Currently Learning
-
-- Advanced AI Workflows
-- Large Language Models
-- Scalable SaaS Architecture
-- Agentic AI Systems
-- Product Design Systems
-
----
-
-# Let's Connect
-
-🌐 Website  
-https://jhye.dev
-
-💼 LinkedIn  
-https://www.linkedin.com/in/jhye-o-meley-529960213/
-
-🐙 GitHub  
-https://github.com/TheJhyeFactor
-
----
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### "Great software isn't just written — it's designed."
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,firebase,python,docker,git,figma&perline=5"/>
 
-Thanks for stopping by 👋
+</div>
+
+
+---
+
+## 🧠 Engineering Focus
+
+```yaml
+Currently:
+  - SaaS Architecture
+  - AI Applications
+  - Cloud Systems
+  - Product Design
+
+Building:
+  - User-focused software
+  - Automation platforms
+  - Scalable web applications
+```
+
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheJhyeFactor&show_icons=true&hide_border=true&theme=transparent"/>
+
+</div>
+
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TheJhyeFactor/TheJhyeFactor/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+
+---
+
+## 🌎 Connect
+
+Website:
+https://jhye.dev
+
+LinkedIn:
+https://linkedin.com/in/jhye-o-meley-529960213/
+
+
+<div align="center">
+
+### Building software with purpose.
 
 </div>

@@ -26,7 +26,6 @@ From concept → architecture → development → deployment.
 
 </div>
 
-
 ---
 
 # 🚀 About Me
@@ -41,15 +40,13 @@ I enjoy working across the entire product lifecycle:
 - Integrating APIs and automation
 - Deploying production applications
 
-My focus is simple:
+My goal:
 
 > Build software people actually want to use.
-
 
 ---
 
 # 🏗️ Current Projects
-
 
 ## ✨ NoteForge
 
@@ -70,7 +67,7 @@ AI-powered learning platform transforming educational content into personalised 
 
 ## 🚍 ClubMate
 
-Complete operations platform designed for hospitality and club environments.
+A complete operations platform designed for hospitality and club environments.
 
 ### Features
 
@@ -97,7 +94,7 @@ Complete operations platform designed for hospitality and club environments.
 
 ---
 
-# 🧠 What I Work With
+# 💻 Development Stack
 
 ```yaml
 Frontend:
@@ -112,7 +109,7 @@ Backend:
   - Firestore
   - REST APIs
 
-Development:
+Tools:
   - Git
   - Docker
   - Vercel
@@ -124,7 +121,6 @@ Interests:
   - Automation
   - Product Design
 ```
-
 
 ---
 
@@ -139,10 +135,9 @@ Ship continuously.
 Improve constantly.
 ```
 
-
 ---
 
-# 📌 Featured Work
+# 📌 Featured Projects
 
 <div align="center">
 
@@ -156,7 +151,6 @@ Improve constantly.
 
 </div>
 
-
 ---
 
 # 🐍 Contribution Activity
@@ -166,7 +160,6 @@ Improve constantly.
 <img src="https://raw.githubusercontent.com/TheJhyeFactor/TheJhyeFactor/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
 
 ---
 
@@ -178,7 +171,6 @@ Improve constantly.
 - Scalable SaaS architecture
 - Cloud infrastructure
 - Modern design systems
-
 
 ---
 

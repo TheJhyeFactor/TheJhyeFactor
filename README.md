@@ -18,7 +18,7 @@ Tokyo, Japan · Founder at BizBeam
 
 I turn operational problems into focused software products. My work spans product discovery, interface design, full-stack engineering, automation, testing, deployment, and the documentation needed to keep systems maintainable.
 
-I am currently focused on native developer tools, privacy-conscious web products, SaaS platforms, and practical contributions to established open-source projects.
+I am currently focused on native developer tools, privacy-conscious web products, SaaS platforms, and upstream performance and reliability work across projects including Ollama, OpenTelemetry Go, Charmbracelet Crush, and PyInstaller.
 
 ## Featured build — Codex Meter
 
@@ -36,13 +36,31 @@ I am currently focused on native developer tools, privacy-conscious web products
 
 [Source code](https://github.com/TheJhyeFactor/codex-meter) · [Latest release](https://github.com/TheJhyeFactor/codex-meter/releases/latest) · [Architecture](https://github.com/TheJhyeFactor/codex-meter/blob/main/docs/architecture.md)
 
-## Open-source work
+## Open-source engineering
 
-| Project | Contribution | Status |
-| --- | --- | --- |
-| [PyInstaller](https://github.com/pyinstaller/pyinstaller) | Documented macOS Finder launch context, bundle-safe resource lookup, writable-state placement, and a reproducible diagnostic workflow. Validated with a warnings-as-errors documentation build and a signed macOS application. | [PR #9485](https://github.com/pyinstaller/pyinstaller/pull/9485) · Under review |
-| [Appsmith ecosystem](https://github.com/appsmithorg/appsmith) | Added focused Jest coverage for OAuth2 expiry-field placement and validated the client test, formatting, lint, and TypeScript checks on a contributor fix branch. | [Contributor PR #1](https://github.com/SaifuddinM23/appsmith/pull/1) · Under review |
-| [Codex Meter](https://github.com/TheJhyeFactor/codex-meter) | Maintainer of a native, privacy-conscious macOS developer tool with public source, CI, release automation, and user-facing documentation. | [v1.5.0](https://github.com/TheJhyeFactor/codex-meter/releases/tag/v1.5.0) · Released |
+### Ollama — streaming performance and network reliability
+
+- [Coalesced high-rate chat stream updates](https://github.com/ollama/ollama/pull/17258), reducing React Query cache commits from 200 to 51 in a deterministic stream test while preserving immediate first output and final state.
+- [Closed a first-byte download-stall gap](https://github.com/ollama/ollama/pull/17259), added race-tested regression coverage, and removed a fixed completion polling tail measured at 1.001 seconds down to 689.5 microseconds in the scoped local benchmark.
+- [Added retries for interrupted model-manifest pulls](https://github.com/ollama/ollama/pull/17260), covering failures before response headers and mid-body disconnects without increasing healthy-path allocations.
+
+### Charmbracelet Crush — LSP discovery performance
+
+[Moved language-server relevance filtering ahead of PATH lookup](https://github.com/charmbracelet/crush/pull/3370), avoiding thousands of unnecessary filesystem checks for unrelated servers. In the controlled 300-server discovery benchmark, median time fell from 50.82 ms to 308.61 µs, allocated memory fell 238×, and allocations fell 96×. The change includes regression tests, race builds, linting, and CPU/allocation profile evidence.
+
+### OpenTelemetry Go — cross-platform CI
+
+[Added a compile-only cross-build workflow](https://github.com/open-telemetry/opentelemetry-go/pull/8634) covering Go 1.25 and 1.26 across 14 target platforms. The change introduces a 28-job matrix, a stable aggregate check, and a Make target that validates foreign `GOOS`/`GOARCH` combinations without trying to execute cross-compiled test binaries.
+
+### PyInstaller — macOS runtime guidance
+
+[Documented macOS Finder launch context and bundle-safe resource handling](https://github.com/pyinstaller/pyinstaller/pull/9485), including writable-state placement and a reproducible diagnostic workflow. Validation included a warnings-as-errors Sphinx build and a signed windowed application launched through macOS LaunchServices.
+
+### Maintained open source
+
+[Codex Meter](https://github.com/TheJhyeFactor/codex-meter) is maintained as a public MIT-licensed product with native Swift source, CI, release automation, architecture documentation, and downloadable builds. The current public release is [v1.5.0](https://github.com/TheJhyeFactor/codex-meter/releases/tag/v1.5.0).
+
+> The upstream pull requests above are under maintainer review. Benchmark figures describe the linked controlled test harnesses, not whole-application speedups.
 
 ## Selected products
 
@@ -56,8 +74,9 @@ I am currently focused on native developer tools, privacy-conscious web products
 ## Engineering scope
 
 **Product engineering:** TypeScript, React, Next.js, JavaScript, Node.js, Firebase, Firestore<br/>
-**Native and systems:** Swift, Python, macOS application development, CLI tooling, packaging<br/>
-**Quality and delivery:** automated testing, GitHub Actions, CI/CD, Docker, Vercel, GitHub Pages<br/>
+**Native and systems:** Go, Swift, Python, macOS application development, networking, CLI tooling, packaging<br/>
+**Performance and reliability:** deterministic benchmarks, `pprof`, `benchstat`, race detection, regression testing<br/>
+**Quality and delivery:** automated testing, GitHub Actions, cross-platform CI/CD, Docker, Vercel, GitHub Pages<br/>
 **Product practice:** workflow design, UX systems, accessibility, technical writing, production readiness
 
 ## How I work

@@ -1,71 +1,87 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1220&height=220&section=header&text=Jhye%20O%27Meley&fontSize=70&fontColor=F8FAFC&animation=fadeIn" alt="Jhye O'Meley" />
-
 # Jhye O'Meley
 
-### Full-stack engineer · SaaS builder · AI product developer
+### Product engineer · SaaS founder · open-source contributor
 
-I build production software products from first idea to shipped experience — with a focus on useful workflows, thoughtful interfaces, and dependable systems.
+I design, build, test, and ship production software — from early product decisions through to reliable delivery.
 
-<a href="https://jhye.dev">Website</a> ·
-<a href="https://www.linkedin.com/in/jhye-o-meley-529960213/">LinkedIn</a> ·
-<a href="https://github.com/TheJhyeFactor">GitHub</a>
+Tokyo, Japan · Founder at BizBeam
+
+[Portfolio](https://jhye.dev) · [LinkedIn](https://www.linkedin.com/in/jhye-o-meley-529960213/) · [GitHub](https://github.com/TheJhyeFactor)
 
 </div>
 
 ---
 
-## What I build
+## What I do
 
-- SaaS products that turn complicated work into clear workflows
-- AI-assisted tools with practical, user-facing outcomes
-- Browser-first applications with privacy-conscious architecture
-- Full-stack systems that are designed to ship and operate in production
+I turn operational problems into focused software products. My work spans product discovery, interface design, full-stack engineering, automation, testing, deployment, and the documentation needed to keep systems maintainable.
 
-## Selected work
+I am currently focused on native developer tools, privacy-conscious web products, SaaS platforms, and practical contributions to established open-source projects.
 
-| Product | What it demonstrates |
-| --- | --- |
-| [PDF Power Tools](https://github.com/TheJhyeFactor/pdf-tools) · [Live demo](https://thejhyefactor.github.io/pdf-tools/) | Client-side PDF manipulation, privacy-first processing, OCR, annotation, and export workflows |
-| [CareerLift](https://github.com/TheJhyeFactor/careerlift) · [Live demo](https://thejhyefactor.github.io/careerlift/) | Resume and cover-letter workflows, live previews, browser persistence, and document generation |
-| [WebOS](https://github.com/TheJhyeFactor/browser-os) | A browser operating system with window management, terminal, filesystem, and built-in applications |
-| [Jhye.dev](https://github.com/TheJhyeFactor/jhye-dev) · [Live site](https://jhye.dev/) | Product-focused personal site with a deliberate visual system and responsive implementation |
+## Featured build — Codex Meter
 
-## Technology
+<a href="https://github.com/TheJhyeFactor/codex-meter">
+  <img src="https://raw.githubusercontent.com/TheJhyeFactor/codex-meter/main/docs/images/hero.svg" alt="Codex Meter — a native macOS menu bar app for Codex usage limits and local activity" />
+</a>
 
-<div align="center">
+[Codex Meter](https://github.com/TheJhyeFactor/codex-meter) is a free, open-source macOS menu bar app for monitoring Codex limits, reset times, local model usage, and API-equivalent cost estimates.
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,firebase,python,docker,git,github,figma,vscode&perline=7" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, Firebase, Python, Docker, Git, GitHub, Figma, and VS Code" />
+- Native Swift 6 application for Apple silicon and Intel Macs
+- Local-first activity analysis with no analytics service or external database
+- Honest stale and error states instead of invented usage estimates
+- Scriptable CLI, CI validation, and automated release workflow
+- MIT licensed with downloadable community builds
 
-</div>
+[Source code](https://github.com/TheJhyeFactor/codex-meter) · [Latest release](https://github.com/TheJhyeFactor/codex-meter/releases/latest) · [Architecture](https://github.com/TheJhyeFactor/codex-meter/blob/main/docs/architecture.md)
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS<br/>
-**Backend:** Node.js, Firebase, Firestore, REST APIs<br/>
-**Product:** AI integrations, SaaS architecture, automation, design systems<br/>
-**Delivery:** GitHub Actions, Docker, Vercel, GitHub Pages
+## Open-source work
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [PyInstaller](https://github.com/pyinstaller/pyinstaller) | Documented macOS Finder launch context, bundle-safe resource lookup, writable-state placement, and a reproducible diagnostic workflow. Validated with a warnings-as-errors documentation build and a signed macOS application. | [PR #9485](https://github.com/pyinstaller/pyinstaller/pull/9485) · Under review |
+| [Appsmith ecosystem](https://github.com/appsmithorg/appsmith) | Added focused Jest coverage for OAuth2 expiry-field placement and validated the client test, formatting, lint, and TypeScript checks on a contributor fix branch. | [Contributor PR #1](https://github.com/SaifuddinM23/appsmith/pull/1) · Under review |
+| [Codex Meter](https://github.com/TheJhyeFactor/codex-meter) | Maintainer of a native, privacy-conscious macOS developer tool with public source, CI, release automation, and user-facing documentation. | [v1.5.0](https://github.com/TheJhyeFactor/codex-meter/releases/tag/v1.5.0) · Released |
+
+## Selected products
+
+| Product | Engineering focus | Links |
+| --- | --- | --- |
+| CareerLift | Privacy-first resume and cover-letter workflows, browser persistence, live preview, and document export | [Source](https://github.com/TheJhyeFactor/careerlift) · [Live product](https://thejhyefactor.github.io/careerlift/) |
+| PDF Power Tools | Client-side PDF splitting, merging, OCR, annotation, signatures, redaction, and compression without document uploads | [Source](https://github.com/TheJhyeFactor/pdf-tools) · [Live product](https://thejhyefactor.github.io/pdf-tools/) |
+| WebOS | Browser desktop environment with window management, terminal emulation, applications, and a persistent virtual filesystem | [Source](https://github.com/TheJhyeFactor/browser-os) · [Live product](https://thejhyefactor.github.io/browser-os/) |
+| jhye.dev | Responsive product portfolio with structured content, documented architecture, automated checks, and static deployment | [Source](https://github.com/TheJhyeFactor/jhye-dev) · [Live site](https://jhye.dev/) |
+
+## Engineering scope
+
+**Product engineering:** TypeScript, React, Next.js, JavaScript, Node.js, Firebase, Firestore<br/>
+**Native and systems:** Swift, Python, macOS application development, CLI tooling, packaging<br/>
+**Quality and delivery:** automated testing, GitHub Actions, CI/CD, Docker, Vercel, GitHub Pages<br/>
+**Product practice:** workflow design, UX systems, accessibility, technical writing, production readiness
 
 ## How I work
 
-I care about the path between a product idea and a product people can rely on:
+- Start with the operating problem and the people who have to use the product.
+- Prefer clear workflows and maintainable systems over unnecessary complexity.
+- Treat testing, security, accessibility, documentation, and deployment as part of the build.
+- Make claims that can be supported by working software, source code, or validation evidence.
 
-1. Understand the real problem and the operating context.
-2. Shape a simple workflow and a clear interface.
-3. Build the smallest maintainable system that can support it.
-4. Validate the edge cases, ship it, and keep improving it.
-
-## Contribution activity
+<details>
+<summary>Contribution activity</summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheJhyeFactor/TheJhyeFactor/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheJhyeFactor/TheJhyeFactor/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/TheJhyeFactor/TheJhyeFactor/output/github-contribution-grid-snake.svg" alt="Animated contribution graph snake" />
+  <img src="https://raw.githubusercontent.com/TheJhyeFactor/TheJhyeFactor/output/github-contribution-grid-snake.svg" alt="Animated contribution graph" />
 </picture>
+
+</details>
 
 ---
 
 <div align="center">
 
-Building software with purpose.
+Open to thoughtful engineering collaborations and product-focused opportunities.
 
 </div>

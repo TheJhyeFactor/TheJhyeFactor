@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <title>Jhye O'Meley — Software, integrations and developer tools</title>
+  <desc>Dark graphite header with blue system connections and a typographic introduction.</desc>
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#202833" stroke-width="1"/></pattern><linearGradient id="fade"><stop stop-color="#10151c"/><stop offset="1" stop-color="#10151c" stop-opacity="0"/></linearGradient></defs>
+  <rect width="1200" height="360" rx="16" fill="#10151c"/>
+  <rect x="720" width="480" height="360" fill="url(#grid)"/>
+  <rect x="680" width="320" height="360" fill="url(#fade)"/>
+  <path d="M850 100H960V180H1080V260H1160M900 260H1010V100H1160" stroke="#3b536d" stroke-width="2"/>
+  <path d="M960 180H1080" stroke="#79b8ff" stroke-width="3"/>
+  <g fill="#10151c" stroke="#79b8ff" stroke-width="2"><circle cx="850" cy="100" r="7"/><circle cx="960" cy="180" r="7"/><circle cx="1080" cy="260" r="7"/><circle cx="1010" cy="100" r="7"/></g>
+  <text x="64" y="76" fill="#91a1b5" font-family="monospace" font-size="15" letter-spacing="3">THEJHYEFACTOR / JHYE.DEV</text>
+  <text x="60" y="163" fill="#f1f5f9" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Jhye O’Meley</text>
+  <text x="64" y="215" fill="#b8c5d4" font-family="Arial, Helvetica, sans-serif" font-size="25">Software. Integrations. Developer tools.</text>
+  <path d="M64 255H128" stroke="#79b8ff" stroke-width="3"/>
+  <text x="64" y="305" fill="#91a1b5" font-family="monospace" font-size="15">NEWCASTLE, AUSTRALIA</text>
+</svg>

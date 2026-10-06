@@ -1,138 +1,82 @@
-## Open-source impact
+<a href="https://jhye.dev"><img src="assets/profile-header.svg" alt="Jhye O'Meley — Software, integrations and developer tools. Newcastle, Australia." width="100%"></a>
 
-<p align="center">
-  <a href="https://github.com/ollama/ollama/pull/17259">
-    <img src="https://img.shields.io/badge/Ollama-%2317259%20merged-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Ollama PR 17259 merged" />
-  </a>
-  <a href="https://github.com/charmbracelet/crush/pull/3381">
-    <img src="https://img.shields.io/badge/Crush-%233381%20merged-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Crush PR 3381 merged" />
-  </a>
-  <a href="https://github.com/charmbracelet/crush/pull/3370">
-    <img src="https://img.shields.io/badge/Crush-%233370%20merged-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Crush PR 3370 merged" />
-  </a>
+<p>
+  <a href="https://jhye.dev"><strong>Portfolio</strong></a> &nbsp; / &nbsp;
+  <a href="https://jhye.dev/work/">Projects</a> &nbsp; / &nbsp;
+  <a href="https://jhye.dev/open-source/">Open source</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/jhye-o-meley-583223420/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="mailto:omeleyjhye@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/3-upstream%20merges-8957e5?style=flat-square" alt="3 upstream merges" />
-  <img src="https://img.shields.io/badge/3-active%20pull%20requests-d29922?style=flat-square" alt="3 active pull requests" />
-  <img src="https://img.shields.io/badge/focus-performance%20%26%20reliability-1f6feb?style=flat-square" alt="Performance and reliability" />
-  <img src="https://img.shields.io/badge/validation-benchmarks%20%7C%20race%20tests%20%7C%20CI-30363d?style=flat-square" alt="Benchmarks race tests and CI" />
-</p>
+I'm a software developer working across applications, APIs and connected systems. I build Mac developer tools, explore local AI and security workflows, and contribute fixes to the open-source software I use.
 
-<br />
+My background includes software engineering at **IntelliDesign** and customer integrations, commissioning and technical support at **Traka / ASSA ABLOY**. I enjoy following a problem from the interface through the API to the system behind it.
+
+## Selected projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Shell rendering</h3>
-      <p align="center">
-        <strong>517× faster</strong><br />
-        <sub>1 MiB output streamed in 100-byte chunks</sub>
-      </p>
-      <p>
-        Removed quadratic string growth from Crush shell-output streaming and
-        reduced allocations from <strong>5.54 GB to 5.24 MB</strong> in the
-        controlled benchmark.
-      </p>
-      <p align="center">
-        <a href="https://github.com/charmbracelet/crush/pull/3381">
-          <code>charmbracelet/crush#3381</code>
-        </a>
-        ·
-        <strong>MERGED</strong>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔍 LSP discovery</h3>
-      <p align="center">
-        <strong>165× lower wall time</strong><br />
-        <sub>50.82 ms → 308.61 µs</sub>
-      </p>
-      <p>
-        Moved language-server relevance filtering ahead of PATH lookup,
-        eliminating thousands of unnecessary filesystem checks for unrelated
-        servers.
-      </p>
-      <p align="center">
-        <a href="https://github.com/charmbracelet/crush/pull/3370">
-          <code>charmbracelet/crush#3370</code>
-        </a>
-        ·
-        <strong>MERGED</strong>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Download reliability</h3>
-      <p align="center">
-        <strong>First-byte stall detection</strong><br />
-        <sub>1.001 s → 689.5 µs completion path</sub>
-      </p>
-      <p>
-        Closed a model-download reliability gap where a connection could return
-        headers without delivering its first response-body byte.
-      </p>
-      <p align="center">
-        <a href="https://github.com/ollama/ollama/pull/17259">
-          <code>ollama/ollama#17259</code>
-        </a>
-        ·
-        <strong>MERGED</strong>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧪 Active upstream work</h3>
-      <p align="center">
-        <strong>3 pull requests under review</strong><br />
-        <sub>Streaming · networking · cross-platform CI</sub>
-      </p>
-      <p>
-        Current work covers coalesced chat-stream updates, interrupted manifest
-        retries, and compile-only validation across 14 target platforms.
-      </p>
-      <p align="center">
-        <a href="https://github.com/ollama/ollama/pull/17258"><code>#17258</code></a>
-        ·
-        <a href="https://github.com/ollama/ollama/pull/17260"><code>#17260</code></a>
-        ·
-        <a href="https://github.com/open-telemetry/opentelemetry-go/pull/8634"><code>#8634</code></a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/TheJhyeFactor/Wixal">Wixal ↗</a></h3>
+<p><strong>An AI workspace for your Mac.</strong></p>
+<p>Local models, project files, saved context, reviewed tools and a terminal in one workspace. Includes a bundled local engine and support for other providers.</p>
+<p><sub>Electron · TypeScript · Local inference</sub></p>
+<p><a href="https://github.com/TheJhyeFactor/Wixal/releases/latest">Download for Apple Silicon</a> · <a href="https://github.com/TheJhyeFactor/Wixal">Source</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/TheJhyeFactor/codex-meter">Codex Meter ↗</a></h3>
+<p><strong>Codex usage in the macOS menu bar.</strong></p>
+<p>A native app for remaining limits, reset times and local usage trends, with a scriptable CLI. API-equivalent cost estimates are kept separate from subscription billing.</p>
+<p><sub>Swift · macOS · CLI</sub></p>
+<p><a href="https://github.com/TheJhyeFactor/codex-meter/releases/latest">Releases</a> · <a href="https://github.com/TheJhyeFactor/codex-meter">Source</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://jhye.dev/work/apertide/">Apertide ↗</a></h3>
+<p><strong>Source review with security findings in context.</strong></p>
+<p>My Code-OSS fork connects SARIF findings, source inspection, optional Ollama assistance, native diff review and recorded checks.</p>
+<p><sub>TypeScript · Code-OSS · SARIF · Ollama</sub></p>
+<p><strong>Local alpha.</strong> Custom implementation is local; the public repository currently exposes the upstream fork.</p>
+<p><a href="https://jhye.dev/work/apertide/">Case study &amp; validation</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://jhye.dev">jhye.dev ↗</a></h3>
+<p><strong>The work, with the context behind it.</strong></p>
+<p>Engineering case studies, client projects, career experience and upstream contributions, with implementation details and explicit project status.</p>
+<p><sub>Next.js · React · TypeScript</sub></p>
+<p><a href="https://jhye.dev">Visit portfolio</a> · <a href="https://github.com/TheJhyeFactor/jhye-dev">Source</a></p>
+</td>
+</tr>
 </table>
 
-> Benchmark figures describe the linked controlled test harnesses and isolated
-> code paths. They are not claims of equivalent whole-application speedups.
+## Upstream contributions
 
-<details>
-<summary><strong>View the engineering behind these contributions</strong></summary>
+Practical improvements to reliability, performance and testing. These are merged contributions to projects maintained by other teams.
 
-<br />
+| Project | Contribution | Evidence |
+| :--- | :--- | :--- |
+| **Ollama** | Detect stalled model downloads before the first response-body byte. | [Merged #17259](https://github.com/ollama/ollama/pull/17259) |
+| **Charm / Crush** | Remove quadratic shell-output rendering and filter language servers before searching PATH. | [Merged #3381](https://github.com/charmbracelet/crush/pull/3381) · [#3370](https://github.com/charmbracelet/crush/pull/3370) |
+| **OpenTelemetry Go** | Add cross-platform compile checks to CI. | [Merged #8634](https://github.com/open-telemetry/opentelemetry-go/pull/8634) |
+| **W&amp;B RAI Toolkit** | Test the OpenAI-compatible model adapter. | [Merged #48](https://github.com/wandb/rai-toolkit/pull/48) |
+| **Internet Archive / Open Library** | Fix template scanning in worktrees without submodule metadata. | [Merged #13533](https://github.com/internetarchive/openlibrary/pull/13533) |
+| **ORAS Go** | Clarify repository constructor and scope-helper migration documentation. | [Merged #1378](https://github.com/oras-project/oras-go/pull/1378) · [#1377](https://github.com/oras-project/oras-go/pull/1377) |
 
-### Performance investigation
+**Under review:** [ZAP #7785](https://github.com/zaproxy/zap-extensions/pull/7785), reducing false positives from public fallback responses in 403 bypass checks. [Browse open contributions →](https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3ATheJhyeFactor+archived%3Afalse)
 
-- CPU and allocation profiling
-- Deterministic before-and-after benchmarks
-- `benchstat` comparison
-- Hot-path and syscall analysis
-- Allocation-count and allocated-memory measurement
+<sub>Contribution status checked 6 October 2026. Linked pull requests carry the current status.</sub>
 
-### Reliability engineering
+## How I work
 
-- First-byte network-stall detection
-- Interrupted response-body recovery
-- Explicit completion signalling
-- Healthy-path allocation checks
-- Deterministic network-failure reproduction
+- **Follow the whole system.** Interfaces, APIs, data, connected hardware and the operational details between them.
+- **Make changes reviewable.** Reproduce the problem, keep the change focused, and retain useful tests, benchmarks or check output.
+- **Keep AI assistance explicit.** Review generated changes and distinguish a suggestion from a verified result.
 
-### Validation
+**Tools I use:** TypeScript / JavaScript, Python, Go, Swift, React / Next.js, Electron, REST / SOAP, Git and CI.
 
-- Race-enabled Go tests
-- Repeated focused regression tests
-- Full package test suites
-- Build and lint validation
-- Cross-platform compile matrices
-- Production frontend builds
+I'm currently completing the **Diploma of Information Technology in Advanced Programming at TAFE NSW**, with expected graduation in **May 2028**.
 
-</details>
+---
+
+**Have a software or integration problem to work through?** [Get in touch](mailto:omeleyjhye@gmail.com) or [explore my experience](https://jhye.dev/career/).

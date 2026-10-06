@@ -1,4 +1,9 @@
-<a href="https://jhye.dev"><img src="assets/profile-header.svg" alt="Jhye O'Meley — Software, integrations and developer tools. Newcastle, Australia." width="100%"></a>
+<a href="https://jhye.dev">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-header-still.png">
+    <img src="assets/profile-header.gif" alt="Jhye O'Meley — Software, integrations and developer tools. Animated terminal: build useful tools, connect systems, review the details. Newcastle, Australia." width="100%">
+  </picture>
+</a>
 
 <p>
   <a href="https://jhye.dev"><strong>Portfolio</strong></a> &nbsp; / &nbsp;
